@@ -1,6 +1,6 @@
 ## Portfolio
 
-![Image](https://github.com/terka43/Portfolio/blob/master/1.png)
+![Image](1.png)
 
 ### ABOUT ME
 
