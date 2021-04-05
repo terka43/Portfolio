@@ -21,15 +21,14 @@
 ### SKILLS     
 
 - C#
-- ASP.NET
+- ASP.NET, Core
 - MVC
-- Entity Framework
+- EF, EF Core
 - HTML
 - CSS
 - JavaScript
 - MS SQL
 - Git
 - Kentico
-- Pivotal Tracker
 
 **English level:** Intermediate
